@@ -1,0 +1,15 @@
+Scribo is an easy learn, exciting and challenging puzzle game with its roots in crossword puzzles.
+
+However, Unlike a traditional crossword Scribo has only ten interlocking words, each of five letters.
+
+Because the words interlock the words are the clues, but to get you started, two letters are already placed on the board.
+
+There are thirty letters in the picker, twenty five for the ten words and an extra word to add a little spice.
+
+Each letter has a value which adds up to give each word a score.
+
+As you place letters on the board making words, they are popped into the found words bag and contribute to your final score.
+
+When you find a legal word, it is highlit on the board in yellow.
+
+When you find a word which belongs on the board, it is highlit in orange, and if it is in the right place, it is highlit in green.
