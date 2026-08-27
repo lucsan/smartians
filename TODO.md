@@ -1,5 +1,5 @@
-Commit basic setup
+Terms and conditions
 
-create public? github repo for smartians.co.uk
+roadmap
 
-repoint netlify smartians to new repo
+beta testers
