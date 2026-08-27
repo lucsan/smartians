@@ -46,7 +46,6 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   var scriboUri = Uri(scheme: 'https', host: 'scribo.smartians.co.uk');
-  File file = File('assets/icons/scribo/icon-512.png');
 
   @override
   Widget build(BuildContext context) {
@@ -95,7 +94,7 @@ class _MyHomePageState extends State<MyHomePage> {
             Image.asset(
               width: 80,
               height: 80,
-              '../assets/icons/scribo/icon-512.png',
+              'assets/images/scribo-icon-512.png',
             ),
             SizedBox(height: 20),
             Text(
